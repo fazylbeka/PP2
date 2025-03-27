@@ -1,4 +1,4 @@
-#RACER
+
 import pygame
 import os
 from datetime import datetime
